@@ -83,6 +83,21 @@ The pipeline is designed around a **modular, containerized ETL architecture**, e
 - **Additional Indicators**: Extend schema to include more health system metrics and external joins.
 
 ---
+---
+
+## 4. Use of AI Tools
+
+---
+
+## 4. Use of AI Tools
+
+During this project, **GitHub Copilot** and **ChatGPT (OpenAI)** were used as supportive tools:
+
+- **GitHub Copilot** was utilized within the development environment to assist with minor code completions, syntax suggestions, and boilerplate generation during Python and SQL scripting.  
+- **ChatGPT (OpenAI)** was used to refine documentation, improve clarity in explanations, and review architectural and optimization narratives in this report.
+
+All data engineering logic, system design, coding, validation, and testing were **manually implemented and verified** by myself.
+
 
 ## Summary
 
@@ -98,6 +113,6 @@ This design provides a **clean, maintainable, and production-ready foundation** 
 
 **Author:**  
 *Herrings Mkwara*  
-MSc Applied Data Science - Malmö University, Sweden  
+MSc Applied Data Science - Malmö University, Sweden | Microsoft Fabric Data Engineer (DP 700) certified, Microsoft Data Analytics with Power BI (Pl 300) certified, Microsft Azure AI 900 Certified, Google Advanced Analytics Certified.
 GitHub: https://github.com/mkwarah 
-Email: mtg.herrings@gmail.com
+Email: mtg.herrings@gmail.com or mkwara.h@gmail.com
