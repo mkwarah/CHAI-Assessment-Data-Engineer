@@ -46,7 +46,7 @@ def from_world_bank() -> pd.DataFrame:
         data = payload[1] if isinstance(payload, list) and len(payload) > 1 else []
         tmp = pd.json_normalize(data)
         if tmp.empty:
-            print(f"    ⚠️ No data for {ind}")
+            print(f"     No data for {ind}")
             continue
         tmp = tmp.rename(columns={
             "country.id": "country_code",
