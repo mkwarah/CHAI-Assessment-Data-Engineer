@@ -83,11 +83,6 @@ The pipeline is designed around a **modular, containerized ETL architecture**, e
 - **Additional Indicators**: Extend schema to include more health system metrics and external joins.
 
 ---
----
-
-## 4. Use of AI Tools
-
----
 
 ## 4. Use of AI Tools
 
