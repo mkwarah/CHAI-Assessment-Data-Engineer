@@ -1,0 +1,46 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: chai_pg
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-chai}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-chai_pw}
+      POSTGRES_DB: ${POSTGRES_DB:-chaidb}
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB} || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  pipeline:
+    image: python:3.11-slim
+    container_name: chai_pipeline
+    working_dir: /app
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+    environment:
+      # data source; set to 'api' to pull World Bank
+      SOURCE: ${SOURCE:-csv}
+      WB_COUNTRIES: "RWA;UGA;KEN;TZA;BDI"
+      WB_DATE_RANGE: "2000:2024"
+      POSTGRES_USER: ${POSTGRES_USER:-chai}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-chai_pw}
+      POSTGRES_DB: ${POSTGRES_DB:-chaidb}
+      POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+    depends_on:
+      db:
+        condition: service_healthy
+    command: >
+      bash -lc "
+        pip install -r src/requirements.txt &&
+        python -m src.orchestrate
+      "
+
+volumes:
+  pgdata:

@@ -1,0 +1,141 @@
+country_code,country_name,year,indicator,indicator_name,unit,value
+RWA,Rwanda,2018,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,80.04
+RWA,Rwanda,2018,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,73.77
+RWA,Rwanda,2018,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,67.84
+RWA,Rwanda,2018,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,21.39
+RWA,Rwanda,2019,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,81.01
+RWA,Rwanda,2019,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,73.81
+RWA,Rwanda,2019,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,69.85
+RWA,Rwanda,2019,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,20.6
+RWA,Rwanda,2020,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,83.49
+RWA,Rwanda,2020,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,74.6
+RWA,Rwanda,2020,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,74.35
+RWA,Rwanda,2020,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.22
+RWA,Rwanda,2021,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,84.75
+RWA,Rwanda,2021,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,79.32
+RWA,Rwanda,2021,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,74.43
+RWA,Rwanda,2021,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,18.56
+RWA,Rwanda,2022,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.24
+RWA,Rwanda,2022,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,81.74
+RWA,Rwanda,2022,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,77.77
+RWA,Rwanda,2022,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,17.49
+RWA,Rwanda,2023,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,85.71
+RWA,Rwanda,2023,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,82.53
+RWA,Rwanda,2023,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,81.59
+RWA,Rwanda,2023,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,14.53
+RWA,Rwanda,2024,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,85.89
+RWA,Rwanda,2024,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,85.94
+RWA,Rwanda,2024,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,83.3
+RWA,Rwanda,2024,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,12.57
+UGA,Uganda,2018,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,76.36
+UGA,Uganda,2018,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,70.05
+UGA,Uganda,2018,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,65.35
+UGA,Uganda,2018,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,20.72
+UGA,Uganda,2019,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,78.52
+UGA,Uganda,2019,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,73.0
+UGA,Uganda,2019,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,68.08
+UGA,Uganda,2019,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.31
+UGA,Uganda,2020,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,81.27
+UGA,Uganda,2020,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,76.36
+UGA,Uganda,2020,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,69.69
+UGA,Uganda,2020,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,17.36
+UGA,Uganda,2021,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,82.38
+UGA,Uganda,2021,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,77.82
+UGA,Uganda,2021,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,74.65
+UGA,Uganda,2021,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,15.46
+UGA,Uganda,2022,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,82.61
+UGA,Uganda,2022,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,78.91
+UGA,Uganda,2022,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,73.4
+UGA,Uganda,2022,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,15.82
+UGA,Uganda,2023,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,85.25
+UGA,Uganda,2023,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,81.54
+UGA,Uganda,2023,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,81.08
+UGA,Uganda,2023,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,15.32
+UGA,Uganda,2024,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.69
+UGA,Uganda,2024,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,85.52
+UGA,Uganda,2024,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,83.43
+UGA,Uganda,2024,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,11.4
+KEN,Kenya,2018,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,82.68
+KEN,Kenya,2018,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,74.78
+KEN,Kenya,2018,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,65.35
+KEN,Kenya,2018,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,23.42
+KEN,Kenya,2019,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,83.06
+KEN,Kenya,2019,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,77.52
+KEN,Kenya,2019,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,70.34
+KEN,Kenya,2019,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,21.64
+KEN,Kenya,2020,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,85.04
+KEN,Kenya,2020,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,77.86
+KEN,Kenya,2020,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,74.9
+KEN,Kenya,2020,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,20.21
+KEN,Kenya,2021,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.54
+KEN,Kenya,2021,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,80.82
+KEN,Kenya,2021,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,78.63
+KEN,Kenya,2021,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.73
+KEN,Kenya,2022,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,87.14
+KEN,Kenya,2022,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,84.82
+KEN,Kenya,2022,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,81.89
+KEN,Kenya,2022,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.82
+KEN,Kenya,2023,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.94
+KEN,Kenya,2023,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,87.65
+KEN,Kenya,2023,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,83.7
+KEN,Kenya,2023,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,16.22
+KEN,Kenya,2024,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,88.89
+KEN,Kenya,2024,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,90.63
+KEN,Kenya,2024,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,84.11
+KEN,Kenya,2024,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,15.68
+TZA,Tanzania,2018,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,80.43
+TZA,Tanzania,2018,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,68.92
+TZA,Tanzania,2018,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,64.55
+TZA,Tanzania,2018,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.93
+TZA,Tanzania,2019,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,80.6
+TZA,Tanzania,2019,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,75.47
+TZA,Tanzania,2019,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,71.04
+TZA,Tanzania,2019,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,18.03
+TZA,Tanzania,2020,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,81.03
+TZA,Tanzania,2020,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,76.91
+TZA,Tanzania,2020,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,73.37
+TZA,Tanzania,2020,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,19.34
+TZA,Tanzania,2021,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,82.18
+TZA,Tanzania,2021,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,78.89
+TZA,Tanzania,2021,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,73.98
+TZA,Tanzania,2021,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,17.26
+TZA,Tanzania,2022,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,83.53
+TZA,Tanzania,2022,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,81.5
+TZA,Tanzania,2022,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,77.46
+TZA,Tanzania,2022,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,16.06
+TZA,Tanzania,2023,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,85.42
+TZA,Tanzania,2023,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,81.83
+TZA,Tanzania,2023,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,79.27
+TZA,Tanzania,2023,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,16.28
+TZA,Tanzania,2024,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.79
+TZA,Tanzania,2024,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,84.13
+TZA,Tanzania,2024,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,85.0
+TZA,Tanzania,2024,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,14.14
+BDI,Burundi,2018,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,79.32
+BDI,Burundi,2018,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,69.08
+BDI,Burundi,2018,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,62.31
+BDI,Burundi,2018,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,18.76
+BDI,Burundi,2019,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,79.79
+BDI,Burundi,2019,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,74.84
+BDI,Burundi,2019,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,64.77
+BDI,Burundi,2019,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,18.39
+BDI,Burundi,2020,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,80.32
+BDI,Burundi,2020,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,72.92
+BDI,Burundi,2020,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,68.59
+BDI,Burundi,2020,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,17.41
+BDI,Burundi,2021,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,81.21
+BDI,Burundi,2021,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,77.92
+BDI,Burundi,2021,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,72.03
+BDI,Burundi,2021,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,17.6
+BDI,Burundi,2022,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,81.87
+BDI,Burundi,2022,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,79.43
+BDI,Burundi,2022,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,71.79
+BDI,Burundi,2022,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,13.43
+BDI,Burundi,2023,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,84.54
+BDI,Burundi,2023,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,80.73
+BDI,Burundi,2023,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,78.87
+BDI,Burundi,2023,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,14.48
+BDI,Burundi,2024,HSS.DTP3.COVERAGE,DTP3 immunization coverage (%),%,86.45
+BDI,Burundi,2024,HSS.DHIS2.REPORTING,DHIS2 reporting completeness (%),%,85.06
+BDI,Burundi,2024,HSS.LMIS.FILL_RATE,LMIS order fill rate (%),%,82.53
+BDI,Burundi,2024,HSS.STOCKOUT.RATE,Essential medicine stockout rate (%),%,12.37
